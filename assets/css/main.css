@@ -100,6 +100,7 @@ body {
 .row {
 margin-right: 0px;
 margin-left: -15px;
+margin-bottom: 50px;
 }
 
 .modal-header {
@@ -310,6 +311,7 @@ a:after {
 	letter-spacing: 3px;
 	margin-left: 15px;
 	text-shadow: 1px 1px 1px #000;
+	font-weight: 900;
 }
 
 #greywrap {
