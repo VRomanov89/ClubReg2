@@ -279,7 +279,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 1000px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -294,7 +294,7 @@ a:after {
 }
 
 #headerwrap h1 {
-	color:#FFDB4D;
+	color:#FFffff;
 	margin-top: 40px;
 	padding-bottom: 30px;
 	letter-spacing: 8px;
@@ -304,7 +304,7 @@ a:after {
 }
 
 #headerwrap p {
-	color:#E6C545;
+	color:#ffffff;
 	font-size: 40px;
 	font-weight: 400;
 	text-align: center;
@@ -381,6 +381,7 @@ a:after {
     padding-top: 30px;
     padding-bottom: 70px;
     margin-top: 0px;
+    min-height: 600px;
 
 
     background-position: center center;
@@ -402,13 +403,13 @@ a:after {
 
 .textdivider h1 {
 	padding-top: 70px;
-	color: #FFDB4D;
+	color: #FFffff;
 	font-size: 40px;
 	font-weight: 900;
 }
 
 .textdivider p {
-	color: #FFDB4D;
+	color: #FFffff;
 	font-size: 25px;
 	font-weight: 900;
 }
