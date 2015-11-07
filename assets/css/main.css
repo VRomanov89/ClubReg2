@@ -355,6 +355,8 @@ a:after {
 }
 
 
+
+
 /* ==========================================================================
    Box Sections
    ========================================================================== */
@@ -402,7 +404,7 @@ a:after {
 }
 
 .textdivider h1 {
-	padding-top: 70px;
+	padding-top: 20px;
 	color: #FFffff;
 	font-size: 40px;
 	font-weight: 900;
@@ -436,6 +438,10 @@ a:after {
 
 .divider6 {
 	background-image: url('../img/bg/divider6.jpg')
+}
+
+.test {
+	background: rgba(0,0,0,0.5) 
 }
 
 
