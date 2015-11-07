@@ -100,7 +100,7 @@ body {
 .row {
 margin-right: 0px;
 margin-left: -15px;
-margin-bottom: 50px;
+margin-bottom: 10px;
 }
 
 .modal-header {
@@ -381,9 +381,9 @@ a:after {
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     padding-top: 30px;
-    padding-bottom: 70px;
+    padding-bottom: 30px;
     margin-top: 0px;
-    min-height: 600px;
+    min-height: 200px;
 
 
     background-position: center center;
@@ -640,6 +640,16 @@ a:after {
 @media screen and (max-width:769px) {
 	#headerwrap h1 {
 		font-size: 80px;
+	}
+	#headerwrap p {
+		font-size: 30px;
+		line-height: 38px;
+	}
+}
+
+@media screen and (max-width:500px) {
+	#headerwrap h1 {
+		font-size: 50px;
 	}
 	#headerwrap p {
 		font-size: 30px;
