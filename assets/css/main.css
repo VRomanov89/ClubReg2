@@ -315,6 +315,17 @@ a:after {
 	font-weight: 900;
 }
 
+.headertext {
+	color:#ffffff;
+	font-size: 30px;
+	font-weight: 400;
+	text-align: center;
+	line-height: 40px;
+	letter-spacing: 3px;
+	text-shadow: 1px 1px 1px #000;
+	font-weight: 400;
+}
+
 #greywrap {
 	background: #f5f5f5;
 	margin-top: 0px;
@@ -413,7 +424,7 @@ a:after {
 .textdivider p {
 	color: #FFffff;
 	font-size: 25px;
-	font-weight: 900;
+	font-weight: 400;
 }
 
 
